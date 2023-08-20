@@ -1,4 +1,4 @@
-# dicodinglearnigLogin
+# dicodinglearningLogin
 sebuah aplikasi dengan fitur login
 Alur fitur Login :
 1. Memasukkan email dan password
